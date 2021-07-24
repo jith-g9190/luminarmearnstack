@@ -1,0 +1,43 @@
+div{
+    width: 300px;
+    height: 200px;
+    margin-left: 35%;
+    padding: 5px;
+
+
+}
+.img{
+    text-align: center;
+    width: 300px;
+    height: 117px;
+    position: relative;
+
+}
+.two{
+    width: 295px; 
+    height: 138px;
+    background-color: rgb(231, 235, 243);
+    margin-top: 10px;
+    padding-left: 10px;
+    position: relative;
+
+    
+    
+}
+.new{
+width: 295px;
+height: 54px;
+background-color: rgb(11, 139, 11);
+margin-top: 10px;
+padding-left: 10px;
+
+}
+span{
+    padding-left: 166px;
+}
+button{
+    width: 266px;
+    background-color: mediumseagreen;
+    
+}
+

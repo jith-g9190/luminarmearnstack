@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+h1{
+    text-align: center;
+    font-family: 'Otomanopee One', sans-serif;
+}
+body{
+    background-image: url("./images/sunset.jpg");
+    background-size: cover;
+    background-blend-mode: saturation;
+
+}
+
+div {
+width: 22%;
+height: 500px;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+float: left;
+line-height: 30px;
+}
+img{
+    width: 100%;
+    height: 133.333px;
+}
+div p{ text-align: center;}
+span{
+    font-weight: bold;
+}

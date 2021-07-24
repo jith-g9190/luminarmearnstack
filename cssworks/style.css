@@ -1,0 +1,23 @@
+h1 
+{
+    color: tomato;
+    text-align: center;
+    text-decoration: underline;
+
+}
+body 
+{ background-color: black;
+
+}
+#one {
+    color: #4287f5;
+    text-decoration: none;
+}
+.two {
+color: rgb(300,50%,70%);
+text-decoration: none;
+
+}
+.three {
+    color: hsl(300,50%,60%);
+}
